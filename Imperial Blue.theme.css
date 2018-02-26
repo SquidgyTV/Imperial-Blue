@@ -1,0 +1,9 @@
+//META{"name":"Imperial Blue","description":"Sleek Dark theme with blue trim.","author":"Ozpin Au Bellona","version":"1.0"}*//
+@import url("https://rawgit.com/SquidgyTV/Imperial-Blue/master/master/imperialblue.css");
+/* Changable Colours: */
+:root { 
+	--main-color: #007dbd;
+	--hover-color: #03679b;
+ }
+/* Do not edit without knowledge. */
+.app, .callout-backdrop, .userPopout-11hFKo::before,.topSectionStreaming-3rIBIm, .topSectionPlaying-3jAH9b,.topSectionSpotify-3744IX, .topSectionNormal-2LlRG1 { background-image: url("https://imgur.com/u5TGuv1") !important; background-size: cover !important;background-position:center!important}
