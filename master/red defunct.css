@@ -1763,7 +1763,7 @@ button.bd-customicon-settings{display:none;}
 
 form.modal-content.form.need-help-modal::after{content:"";background:#fff;position:relative;z-index:10;}
 
-.need-help-modal .header{background-color:transparent;height:140px;;padding:0;}
+.need-help-modal .header{background-color:transparent;height:200px;;padding:0;}
 
 .need-help-modal .header::after{content:"";background-color:var(--main-color);border-top-left-radius:3px;border-top-right-radius:3px;position:relative;z-index:10;height:150px;width:100%;padding:0;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;}
 
