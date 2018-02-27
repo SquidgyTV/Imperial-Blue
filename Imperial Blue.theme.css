@@ -1,5 +1,5 @@
 //META{"name":"Imperial Blue","description":"Sleek Dark theme with blue trim.","author":"Ozpin Au Bellona","version":"1.0"}*//
-@import url("https://rawgit.com/SquidgyTV/Imperial-Blue/master/master/imperialblue.css");
+@import url("https://raw.githubusercontent.com/SquidgyTV/Imperial-Blue/master/master/imperialblue.css");
 /* Changable Colours: */
 :root { 
 	--main-color: #007dbd;
